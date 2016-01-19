@@ -1,6 +1,6 @@
 Super Battleship
 @[DLukeNelson](https://github.com/DLukeNelson)
-@
+@[AkashPatelUAlberta](https://github.com/AkashPatelUAlberta)
 
 This is a remake of the classic board game Battleship, for play across two
 serially connected Arduino boards. Done as a project for our intro level
@@ -40,9 +40,8 @@ JS SEL <--> Pin 9
 JS GND <--> Negative BUS
 Negative Bus <--> Pushbutton <--> Pin 3
 Negative Bus <--> Piezo Buzzer <--> Pin 2
-/** RGB LED lead labeled from flat side (closest to flat side = LED Lead 1,
- * followed by 2, then 3, and 4 is farthest from flat edge)
- */
+[RGB LED lead labeled from flat side (closest to flat side = LED Lead 1,
+ followed by 2, then 3, and 4 is farthest from flat edge)]
 Pin 38 <--> Resistor <--> LED Lead 1
 Pin 37 <--> Resistor <--> LED Lead 3
 Pin 36 <--> Resistor <--> LED Lead 4
